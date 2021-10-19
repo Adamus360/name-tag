@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="P%Bw@,Z5z-~#}zEgy3+D" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="r6]i^aJHYv/f$=j2~EOu"><value name="text"><shadow type="text" id="B9JPyelFy-8LJw*gq^RL"><field name="TEXT">Michael Schwall</field></shadow></value></block></statement></block></xml>
